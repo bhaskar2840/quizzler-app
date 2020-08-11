@@ -15,7 +15,7 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 - interactive app.
 - shows popup when tests get over.
-- make 
+- the user interface is simple and easy to use.
 
 
 ## Code Snippet for Project
