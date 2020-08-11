@@ -11,24 +11,19 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
-## What you will learn
+## key features
 
-- Modularising your code into separate classes.
-- Dart classes and objects.
-- Using class constructors.
-- Extracting Widgets to refactor your code.
-- private and public modifiers in Dart.
-- How to use Dart lists.
-- The difference between var, const and final.
+- interactive app.
+- shows popup when tests get over.
+- make 
+
 
 ## Code Snippet for Project
 
-
-Question('Some cats are actually allergic to humans', true),
+    ...
+    Question('Some cats are actually allergic to humans', true),
     Question('You can lead a cow down stairs but not up stairs.', false),
     Question('Approximately one quarter of human bones are in the feet.', true),
     Question('A slug\'s blood is green.', true),
-   
-
-
->
+    ...   
+>this
