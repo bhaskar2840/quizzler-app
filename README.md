@@ -1,11 +1,10 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # Quizzler ❓
 
 ## Our Goal
 
-In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
+This is a very simple app that asks you some questions and you can answer then easily.
 
 
 ## What you will create
@@ -33,7 +32,7 @@ Question('Some cats are actually allergic to humans', true),
     Question('A slug\'s blood is green.', true),
     
 
-```
+...  
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
