@@ -1,8 +1,6 @@
 
 
-# Quizzler ❓
-
-## Our Goal
+# Quizzler ❓  what is it.
 
 This is a very simple app that asks you some questions and you can answer then easily.
 
@@ -25,14 +23,12 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
 
 ## Code Snippet for Project
 
-```
+
 Question('Some cats are actually allergic to humans', true),
     Question('You can lead a cow down stairs but not up stairs.', false),
     Question('Approximately one quarter of human bones are in the feet.', true),
     Question('A slug\'s blood is green.', true),
-    
-
-...  
+   
 
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
