@@ -26,4 +26,5 @@ We’re going to make a quiz app that tests your general knowledge. As one of th
     Question('Approximately one quarter of human bones are in the feet.', true),
     Question('A slug\'s blood is green.', true),
     ...   
->this
+>You can also create this repo on your own just clone this repo in your system and open the Build file in your prefered IDE.
+
